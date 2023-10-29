@@ -110,16 +110,72 @@ margin-right: auto;
   background-color: #333;
 }
 
-.navbar li {
+.navbar li, .navbar div {
   float: right;
 }
 
-.navbar li a {
+.navbar li a, .navbar div a {
+  
+  color:#30bce3;
   display: block;
-  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  color:#30bce3;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: rgba(255, 255, 255, 0.391);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Cards */
