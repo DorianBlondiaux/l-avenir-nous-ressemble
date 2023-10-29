@@ -3,31 +3,48 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <ul className="navbar">
-      <li key="2">
-        <Link to="/contact">Contact</Link>
-      </li>
-      <li key="1">
-        <Link to="/qui-sommes-nous">Qui sommes-nous ?</Link>
-      </li>
-      <li key="1">
-        <Link to="/cql-propose">Ce que l'on propose</Link>
-      </li>
-      <div className="dropdown">
-        <button className="dropbtn">
-          Les Troubles
-          <i className="fa fa-caret-down"></i>
-        </button>
-        <div className="dropdown-content">
-          <a href="#">Link 1</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
-        </div>
-      </div>
-      <li key="0">
-        <Link to="/">Accueil</Link>
-      </li>
+   
+    <div className="cm-e-menu">
+    <ul>
+        <li className="topmenu">
+        <Link className="link" to="/">Accueil</Link>
+        </li>
+        <li className="topmenu">
+            <div className="link">Les Troubles</div>
+            <ul className="submenu">
+                <li>
+                    <a>Les troubles DYS</a>
+                    <ul className="submenu">
+                        <li><a>Dyslexie</a></li>
+                        <li className="divider"></li>
+                        <li><a>Dysorthographie</a></li>
+                        <li className="divider"></li>
+                        <li><a>Dyspraxie</a></li>
+                        <li className="divider"></li>
+                        <li><a>Dysphasie</a></li>
+                        <li className="divider"></li>
+                        <li><a>Discaculie</a></li>
+                        <li className="divider"></li>
+                        <li><a>Dysgraphie</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a>TDA/H</a>
+                    <ul className="submenu">
+                        <li><a>TDA</a></li>
+                        <li className="divider"></li>
+                        <li><a>Hyperactif</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li className="topmenu">
+        <Link className="link" to="/cql-propose">Ce que l'on propose</Link>
+        </li>
+        <li className="topmenu"><Link className="link" to="/qui-sommes-nous">Qui sommes-nous ?</Link></li>
+        <li className="topmenu"><Link className="link" to="/contact">Contact</Link></li>
     </ul>
+</div>
   );
 }
 

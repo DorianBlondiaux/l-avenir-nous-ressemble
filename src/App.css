@@ -9,12 +9,13 @@ body {
   background-color: #fff6e4;
 }
 
-.header1, .header2{
-  color: #4EB589;
+.header1,
+.header2 {
+  color: #4eb589;
   font-size: 30px;
 }
 
-.header2{
+.header2 {
   font-family: "CraftyNotes";
   text-align: center;
 }
@@ -27,11 +28,11 @@ body {
   letter-spacing: 1px;
   font-size: 20px;
   width: max-content;
-  padding-top: 0.5em!important;
-  padding-right: 2em!important;
-  padding-bottom: 0.5em!important;
-  padding-left: 2em!important;
-  box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+  padding-top: 0.5em !important;
+  padding-right: 2em !important;
+  padding-bottom: 0.5em !important;
+  padding-left: 2em !important;
+  box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
 }
 
 .button:after {
@@ -45,19 +46,19 @@ body {
   transition-duration: 350ms;
 }
 
-.queFaitOn{
-margin-top:80px;
-display:flex;
-width: 70%;
-margin-left: auto;
-margin-right: auto;
+.queFaitOn {
+  margin-top: 80px;
+  display: flex;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.kak{
-  height:40%;
-  width:40%;
+.kak {
+  height: 40%;
+  width: 40%;
   border-radius: 30px;
-  margin-right:20px;
+  margin-right: 20px;
 }
 
 .craftyH1 {
@@ -100,82 +101,81 @@ margin-right: auto;
 .accueilDiv {
 }
 
+.link{
+  text-decoration: none;
+  color:#30bce3;
+}
 /* Navbar */
-.navbar {
-  list-style-type: none;
-  margin: 0;
-  margin-bottom: 15px;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+*{
+  margin: 0; padding: 0;
+  font-family: 'Roboto', sans-serif;
 }
-
-.navbar li, .navbar div {
-  float: right;
+.cm-e-menu {
+	background-color: #222;
+	position: relative;
+	z-index: 1000;
+	color: #fff;
+	font-weight: 200;
+	box-shadow: 0 0 10px black;
+  float:right;
+  width:100%;
+  text-align:right;
+	}
+.cm-e-menu ul {
+	margin: 0; padding: 0;
 }
+.cm-e-menu li {
+  text-align:left;
+	position: relative;
+	white-space: nowrap;
+	cursor: pointer;
+	list-style: none;
 
-.navbar li a, .navbar div a {
-  
-  color:#30bce3;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+	-webkit-transition: background-color ease-in 300ms;
+	-moz-transition: background-color ease-in 300ms;
+	-ms-transition: background-color ease-in 300ms;
+	-o-transition: background-color ease-in 300ms;
+	transition: background-color ease-in 300ms;
 }
-
-.dropdown {
-  float: left;
-  overflow: hidden;
+.cm-e-menu li:hover {
+	background-color: #3d3d3d;
+	text-shadow: 0 10px 10px #222;
 }
-
-.dropdown .dropbtn {
-  font-size: 16px;  
-  border: none;
-  outline: none;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-  color:#30bce3;
+.cm-e-menu ul li.topmenu {
+	display: inline-table;
+	padding: .3em 1em;
 }
-
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: rgba(255, 255, 255, 0.391);
+.cm-e-menu .topmenu ul {
+	display:none;
+	position: absolute;
+	background-color: #222;
 }
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #333;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+.cm-e-menu li:hover > ul {
+	display: table;
 }
-
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
+.cm-e-menu ul.submenu {
+	top: 100%; left: 0;
+	padding-top: .5em;
+	padding-bottom: .5em;	
+	box-shadow: 0 0 10px black;
 }
-
-.dropdown-content a:hover {
-  background-color: #ddd;
+.cm-e-menu ul.submenu .submenu {
+	top: -.5em; left: 100%;
+	font-size: 1em
 }
-
-.dropdown:hover .dropdown-content {
-  display: block;
+.cm-e-menu ul.submenu li {
+	padding: .2em 1.5em;
+	font-size: .9rem;
 }
-
-.fa {
-  display: inline-block;
-  font: normal normal normal 14px/1 FontAwesome;
-  font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.cm-e-menu li.divider {
+	padding: 0;
+	border-top: 1px solid #343434;
+	margin: .5rem auto .3rem;
+	cursor: default;
+}
+.cm-e-menu li.divider:hover {
+	background-color: transparent;
 }
 
 /* Cards */
@@ -335,7 +335,7 @@ Generic layout (demo looks)
 /* Footer start */
 
 .footer {
-  margin-top:150px;
+  margin-top: 150px;
   position: relative;
   width: 100%;
   background: #3586ff;
