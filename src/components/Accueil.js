@@ -8,19 +8,28 @@ function Accueil(props) {
       <div className="anrBackground">
         <div className="anrContent1">
           <h1 className="craftyH1">L’AVENIR NOUS RESSEMBLE</h1>
-          <p>
-            L’AVENIR NOUS RESSEMBLE est une association de soutien scolaire et
-            d’aide aux devoirs pour les élèves du CP à la Terminale ayant un ou
-            des « troubles invisibles » créée le 31 janvier 2022 Quand nous
-            utilisons les termes « troubles invisibles » nous parlons de
-            troubles et/ou difficultés qui ne se voient pas mais qui peuvent
-            impacter le parcours scolaire d’un élève. Par exemple, les élèves
-            HPI (Haut Potentiel Intellectuel), TDA (Trouble Déficitaire de
-            l’attention), Hyperactifs, DYS (dyslexique, dyscalculique,
-            dyspraxique, dysphasique, dysorthographique, dysgraphique), avec une
-            phobie scolaire, victimes de harcèlement et bien d’autres.
-          </p>
-          <Button content="Nous Contacter"></Button>
+          <div className="anrIntro">
+            <p>
+              L’AVENIR NOUS RESSEMBLE est une association de soutien scolaire et
+              d’aide aux devoirs pour les élèves du CP à la Terminale ayant un
+              ou des « troubles invisibles » créée le 31 janvier 2022.
+            </p>
+            <p>
+              Quand nous utilisons les termes « troubles invisibles » nous
+              parlons de troubles et/ou difficultés qui ne se voient pas mais
+              qui peuvent impacter le parcours scolaire d’un élève.
+            </p>
+            <p>
+              Par exemple, les élèves HPI (Haut Potentiel Intellectuel), TDA
+              (Trouble Déficitaire de l’attention), Hyperactifs, DYS
+              (dyslexique, dyscalculique, dyspraxique, dysphasique,
+              dysorthographique, dysgraphique), avec une phobie scolaire,
+              victimes de harcèlement et bien d’autres.
+            </p>
+          </div>
+          <div className="center">
+          <Button className="nousContacter" content="Nous Contacter"></Button>
+          </div>
         </div>
       </div>
 
@@ -39,19 +48,29 @@ function Accueil(props) {
 
         <div>
           <h2 className="header1">Que fait-on ?</h2>
-          <p>
-            Nous proposons de l’accompagnement du CP à la Terminale pour les
-            élèves ayant une approche différente, ceux pour lesquels le système
-            scolaire n’est pas adapté, afin qu’ils ne soient pas/plus en échec
-            scolaire. Exemples : Hyperactif, souffrant de trouble de
-            l’attention, dyslexique, haut potentiel, phobie scolaire, victime de
-            harcèlement scolaire… Nous comptons 11 bénévoles actifs dont 5
-            professeurs particuliers. Nous avons commencé les cours particuliers
-            et les autres actions en septembre 2022. Une vingtaine d’élèves a
-            déjà pu être accompagnée (cours particuliers, aide aux devoirs à
-            l’école élémentaire Paul Bert et au centre social des 3 Quartiers et
-            ateliers théâtres confondus).
-          </p>
+          <div>
+            <p>
+              Nous proposons de l’accompagnement du CP à la Terminale pour les
+              élèves ayant une approche différente, ceux pour lesquels le
+              système scolaire n’est pas adapté, afin qu’ils ne soient pas/plus
+              en échec scolaire.
+            </p>
+            <p>
+              Exemples : Hyperactif, souffrant de trouble de l’attention,
+              dyslexique, haut potentiel, phobie scolaire, victime de
+              harcèlement scolaire…
+            </p>{" "}
+            <p>
+              Nous comptons 11 bénévoles actifs dont 5 professeurs particuliers.
+            </p>{" "}
+            <p>
+              Nous avons commencé les cours particuliers et les autres actions
+              en septembre 2022. Une vingtaine d’élèves a déjà pu être
+              accompagnée (cours particuliers, aide aux devoirs à l’école
+              élémentaire Paul Bert et au centre social des 3 Quartiers et
+              ateliers théâtres confondus).
+            </p>
+          </div>
           <Button content="Découvrez nos actions"></Button>
         </div>
       </div>

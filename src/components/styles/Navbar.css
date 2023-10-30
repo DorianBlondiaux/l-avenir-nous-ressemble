@@ -15,7 +15,6 @@
 
 .cm-e-menu {
   background-color: #222;
-  position: relative;
   z-index: 1000;
   color: #fff;
   font-weight: 200;
@@ -23,6 +22,8 @@
   float: right;
   width: 100%;
   text-align: right;
+  top: 0;
+  position: fixed;
 }
 .cm-e-menu ul {
   margin: 0;

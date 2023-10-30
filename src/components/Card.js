@@ -4,19 +4,19 @@ import "./styles/Card.css"
 function Card(props) {
   return (
       <article>
-        <div class="article-wrapper">
+        <div className="article-wrapper">
           <figure>
             <img src={props.image} alt="" />
           </figure>
-          <div class="article-body">
+          <div className="article-body">
             <h2>{props.title}</h2>
             <p>{props.content}
             </p>
-            <a href="#" class="read-more">
-              {props.discover} <span class="sr-only">about this is some title</span>
+            <a href="#" className="read-more">
+              {props.discover} <span className="sr-only">about this is some title</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="icon"
+                className="icon"
                 viewBox="0 0 20 20"
                 fill="currentColor"
               >

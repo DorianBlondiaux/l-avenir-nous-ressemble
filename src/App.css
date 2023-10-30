@@ -14,16 +14,17 @@ body {
   background-color: #fff6e4;
 }
 
-p{
-  padding-top:10px;
-  padding-right:100px;
+p {
+  padding-top: 10px;
+  padding-right: 100px;
   font-family: "LexieReadable";
+  font-size: 18px;
 }
 
 .header1,
 .header2 {
   color: #4eb589;
-  font-size: 30px;
+  font-size: 40px;
   font-family: "CraftyNotes";
 }
 
@@ -39,7 +40,7 @@ p{
   letter-spacing: 1px;
   font-size: 20px;
   width: max-content;
-  margin-top:20px;
+  margin-top: 20px;
   padding-top: 0.5em !important;
   padding-right: 2em !important;
   padding-bottom: 0.5em !important;
@@ -66,9 +67,14 @@ p{
   margin-right: auto;
 }
 
-.nousProposons{
-  margin-top:100px;
-  
+.nousProposons {
+  margin-top: 100px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .kak {
@@ -81,6 +87,17 @@ p{
 .craftyH1 {
   font-family: "CraftyNotes";
   font-size: 50px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.anrIntro {
+  padding-bottom: 30px;
+}
+
+.nousContacter {
+  margin: auto;
+  width: 50%;
 }
 
 .App {
@@ -95,30 +112,41 @@ p{
 
   width: 70%;
   margin: auto;
-  background-color: #63573e;
+  margin-top: 10vh;
+  background-color: rgba(255, 246, 228, 0.18);
   border-radius: 3em 3em 3em 3em;
-  padding-top: 8vh;
-  padding-bottom: 8vh;
-  padding-left: 12vh;
-  padding-right: 12vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  padding-left: 9%;
+  padding-right: 9%;
 }
 
 .anrBackground {
   padding-top: 12vh;
-  /* background-blend-mode: overlay;
-  background-image: url("https://lavenirnousressemble.fr/wp-content/uploads/2023/09/cdc-GDokEYnOfnE-unsplash.webp") !important;
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 0;
-  padding-top: 66.5625%; (img-height / img-width * container-width) */
-  /* (1278 / 1920 * 100) */
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 300px;
+
+  background-color: rgba(29, 29, 27, 0.62) !important;
+  background-blend-mode: overlay;
+  background-image: url(https://lavenirnousressemble.fr/wp-content/uploads/2023/09/cdc-GDokEYnOfnE-unsplash.webp) !important;
 }
 
 .accueilDiv {
 }
 
-.link{
+.link {
   text-decoration: none;
-  color:#30bce3;
+  color: #30bce3;
+}
+
+/* Cards group */
+.articles {
+  padding-top: 40px;
+  display: grid;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
 }

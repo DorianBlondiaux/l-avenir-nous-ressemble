@@ -1,5 +1,27 @@
 /* Cards */
 
+p{
+  padding-right:0px;
+  padding-bottom:0px;
+}
+
+article p{
+  padding-bottom:50px;
+}
+
+.read-more{
+  left:0;
+  
+  bottom: 0;
+  width: 100%;
+  display: block;
+  position: absolute;
+  text-align: center;
+  padding-bottom:20px;
+  color: #e56e11;
+  font-size:22px;
+}
+
 article {
     --img-scale: 1.001;
     --title-color: black;
@@ -12,6 +34,7 @@ article {
     transform-origin: center;
     transition: all 0.4s ease-in-out;
     overflow: hidden;
+    background-color: #3a3323;
   }
   
   article a::after {
@@ -28,7 +51,7 @@ article {
     font-family: "Bebas Neue", cursive;
     font-size: 1.9rem;
     letter-spacing: 0.06em;
-    color: var(--title-color);
+    color: #ED6EA5;
     transition: color 0.3s ease-out;
   }
   
@@ -100,15 +123,7 @@ article {
     background-image: linear-gradient(45deg, #7c9885, #b5b682);
     min-height: 100vh;
   } */
-  
-  .articles {
-    display: grid;
-    max-width: 1200px;
-    margin-inline: auto;
-    padding-inline: 24px;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 24px;
-  }
+
   
   @media screen and (max-width: 960px) {
     article {
