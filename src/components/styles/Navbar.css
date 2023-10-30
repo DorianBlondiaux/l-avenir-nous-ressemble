@@ -11,13 +11,17 @@
   float: left;
 }
 
+.link {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display:block;
+}
+
 .cm-e-menu,
 .cm-e-menu li,
 .link {
   font-size: 17px;
   font-weight: bold;
-  padding-top: 5px;
-  padding-bottom: 5px;
 }
 
 .cm-e-menu {
@@ -35,6 +39,8 @@
 .cm-e-menu ul {
   margin: 0;
   padding: 0;
+  
+  height:100%;
 }
 .cm-e-menu li {
   text-align: left;
@@ -89,4 +95,8 @@
 }
 .cm-e-menu li.divider:hover {
   background-color: transparent;
+}
+
+li .topmenu, .link{
+  height:100%;
 }
