@@ -10,7 +10,6 @@ import data from "./components/Troubles/Troubles.json";
 import Trouble from "./components/Troubles/Trouble";
 
 function App() {
-  console.log(data);
 
   return (
     <BrowserRouter>
