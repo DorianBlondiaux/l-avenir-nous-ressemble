@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/l-avenir-nous-ressemble/static/css/main.0e572c5d.css",
-    "main.js": "/l-avenir-nous-ressemble/static/js/main.6c670c25.js",
+    "main.css": "/l-avenir-nous-ressemble/static/css/main.471894f6.css",
+    "main.js": "/l-avenir-nous-ressemble/static/js/main.e7a7008e.js",
     "static/js/787.0a5a3ee0.chunk.js": "/l-avenir-nous-ressemble/static/js/787.0a5a3ee0.chunk.js",
     "static/media/LexieReadable-Regular.ttf": "/l-avenir-nous-ressemble/static/media/LexieReadable-Regular.554739a3b67128362b60.ttf",
     "static/media/CraftyNotes.ttf": "/l-avenir-nous-ressemble/static/media/CraftyNotes.8031c9a2c651b683fc77.ttf",
     "index.html": "/l-avenir-nous-ressemble/index.html",
-    "main.0e572c5d.css.map": "/l-avenir-nous-ressemble/static/css/main.0e572c5d.css.map",
-    "main.6c670c25.js.map": "/l-avenir-nous-ressemble/static/js/main.6c670c25.js.map",
+    "main.471894f6.css.map": "/l-avenir-nous-ressemble/static/css/main.471894f6.css.map",
+    "main.e7a7008e.js.map": "/l-avenir-nous-ressemble/static/js/main.e7a7008e.js.map",
     "787.0a5a3ee0.chunk.js.map": "/l-avenir-nous-ressemble/static/js/787.0a5a3ee0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e572c5d.css",
-    "static/js/main.6c670c25.js"
+    "static/css/main.471894f6.css",
+    "static/js/main.e7a7008e.js"
   ]
 }
