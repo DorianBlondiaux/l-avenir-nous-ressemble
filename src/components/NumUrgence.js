@@ -9,23 +9,23 @@ function NumUrgence(props) {
         <div className="numContainer">
           <div className="numeros">
             <h3>Allo Maltraitance</h3>
-            <p>3977</p>
+            <div>3977</div>
           </div>
           <div className="numeros">
             <h3>SOS Inceste</h3>
-            <p>04.76.47.90.93</p>
+            <div>04.76.47.90.93</div>
           </div>
           <div className="numeros">
             <h3>SOS Suicide</h3>
-            <p>01.40.50.34.34</p>
+            <div>01.40.50.34.34</div>
           </div>
           <div className="numeros">
             <h3>Harcèlement</h3>
-            <p>3020</p>
+            <div>3020</div>
           </div>
           <div className="numeros">
             <h3>Cyberharcèlement</h3>
-            <p>3018</p>
+            <div>3018</div>
           </div>
         </div>
       </div>

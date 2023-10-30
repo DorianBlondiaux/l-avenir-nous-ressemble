@@ -129,9 +129,6 @@ article {
     article {
       container: card/inline-size;
     }
-    .article-body p {
-      display: none;
-    }
   }
   
   @container card (min-width: 380px) {

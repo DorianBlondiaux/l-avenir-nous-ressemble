@@ -21,15 +21,22 @@
  /* flex-shrink: 0;  do not shrink-to-fit when flex items larger than flex container */
   height: 100%;
   padding-right:20px;
+  font-size:20px;
 }
 
 .numeros h3{
     color:#30BCE3;
+    font-size:30px;
 }
 
 @media (max-width: 800px) {
     .numContainer {
       flex-direction: column;
       
+    }
+
+    .numeros{
+      margin-bottom:50px;
+      text-align:center;
     }
   }

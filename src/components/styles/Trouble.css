@@ -24,3 +24,16 @@
   p{
     margin-top:12px;
   }
+
+  @media (max-width: 800px) {
+  
+    .image1{
+      height: 100%;
+      width: 100%;
+      border-radius: 30px;
+      margin:auto;
+      margin-top: 25px;
+    }
+    
+  
+  }

@@ -1,6 +1,6 @@
 import React from "react";
 
-function Trouble(props) {
+function SectionTemplate(props) {
   const customClasse = props.className ? props.className : "";
   return (
     <div className={customClasse}>
@@ -23,4 +23,4 @@ function Trouble(props) {
   );
 }
 
-export default Trouble;
+export default SectionTemplate;
