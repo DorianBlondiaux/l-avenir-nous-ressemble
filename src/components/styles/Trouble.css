@@ -1,0 +1,14 @@
+.troubleFlex {
+    padding-top: 100px;
+    display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .image1 {
+    height: 40%;
+    width: 40%;
+    border-radius: 30px;
+    margin-right: 20px;
+  }

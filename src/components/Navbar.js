@@ -16,7 +16,7 @@ function Navbar() {
                 <li>
                     <a>Les troubles DYS</a>
                     <ul className="submenu">
-                        <li><a>Dyslexie</a></li>
+                        <li><Link className="link" to="/dyslexie">Dyslexie</Link></li>
                         <li className="divider"></li>
                         <li><a>Dysorthographie</a></li>
                         <li className="divider"></li>
@@ -37,6 +37,8 @@ function Navbar() {
                         <li><a>Hyperactif</a></li>
                     </ul>
                 </li>
+                
+                <li><Link className="link" to="/hpi">HPI</Link></li>
             </ul>
         </li>
         <li className="topmenu">
