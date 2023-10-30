@@ -1,17 +1,19 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./styles/Navbar.css";
+import TroubleLink from "./Troubles/TroubleLink";
 
-function Navbar() {
+function Navbar(props) {
+  console.log(props);
   return (
     <div className="cm-e-menu">
-        <img className="logo"
-            width
-            alt="Logo Asso"
-            srcset="https://lavenirnousressemble.fr/wp-content/uploads/2023/08/LogoLANR_carre-scaled.webp"
-          />
+      <img
+        className="logo"
+        width
+        alt="Logo Asso"
+        srcset="https://lavenirnousressemble.fr/wp-content/uploads/2023/08/LogoLANR_carre-scaled.webp"
+      />
       <ul>
-          
         <li className="topmenu">
           <Link className="link" to="/">
             Accueil
@@ -23,53 +25,22 @@ function Navbar() {
             <li>
               <span className="link">Les troubles DYS</span>
               <ul className="submenu">
-                <li>
-                  <Link className="link" to="/dyslexie">
-                    Dyslexie
-                  </Link>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <Link className="link" to="/dysorthographie">
-                    Dysorthographie
-                  </Link>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <a>Dyspraxie</a>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <a>Dysphasie</a>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <a>Discaculie</a>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <a>Dysgraphie</a>
-                </li>
+                {/* Géneration des liens pour les troubles dys */}
+                <TroubleLink troubles={props.troubles} tag='dys'></TroubleLink>
               </ul>
             </li>
+            <li className="divider"></li>
             <li>
               <span className="link">TDA/H</span>
               <ul className="submenu">
-                <li>
-                  <a>TDA</a>
-                </li>
-                <li className="divider"></li>
-                <li>
-                  <a>Hyperactif</a>
-                </li>
+                {/* Géneration des liens pour les troubles tdah */}
+                <TroubleLink troubles={props.troubles} tag='tdah'></TroubleLink>
               </ul>
+              
             </li>
-
-            <li>
-              <Link className="link" to="/hpi">
-                HPI
-              </Link>
-            </li>
+            <li className="divider"></li>
+                {/* Géneration des liens pour les autres troubles */}
+                <TroubleLink troubles={props.troubles} tag='other'></TroubleLink>
           </ul>
         </li>
         <li className="topmenu">

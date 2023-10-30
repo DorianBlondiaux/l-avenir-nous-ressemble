@@ -14,7 +14,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <Navbar />
+      <Navbar troubles={data.troubles} />
       <Routes>
         <Route path="/" element={<Accueil />}></Route>
         <Route path="/contact" element={<Contact />}></Route>

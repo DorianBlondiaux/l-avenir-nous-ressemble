@@ -3,6 +3,7 @@
     {
       "path": "/dyslexie",
       "name": "Dyslexie",
+      "tag": "dys",
       "intro": [
         "<p>La dyslexie c’est un trouble <span class=\"important\">spécifique de la lecture</span>.</p>",
 
@@ -41,46 +42,10 @@
         "<p>Prendre en compte qu’il va se <span class=\"important\">fatiguer plus vite</span> surtout s’il y a beaucoup de lecture.</p>"
       ]
     },
-    {
-        "path": "/hpi",
-        "name": "HPI: Haut Potentiel Intellectuel",
-        "intro": [
-          "<p>QI d’au moins 143, pensées en arborescence, très rationnel, extrêmes émotionnels.</p>",
-  
-          "<p>Facilités d’apprentissages n’est pas signe de réussite scolaire garantie !</p>"
-        ],
-        "imageDescription": "Kirby",
-        "imageUrl": "https://media.tenor.com/e7JhFzl1VhMAAAAM/kirby54-qi.gif",
-        "definitionTitle": "Qu’est-ce que le HPI ?",
-        "definitionContent": [
-          "<p>Your content goes here.</p>",
-  
-          "<p>Edit or remove this text inline or in the module Content settings.</p>",
-  
-          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
-        ],
-        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant HPI ?",
-        "accompagnementContent": [
-          "<p>Ne pas se vexer s’il vous reprend, ce n’est pas de la provocation. L’élève HPI a souvent besoin que les termes soient précis (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
-  
-          "<p>L’entraîner aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
-  
-          "<p>Ne pas lui dire qu’il a faux si ce n’est pas le cas. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
-  
-          "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, l’accepter (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
-  
-          "<p>Accepter qu’il peut avoir de gros écarts de niveau selon les notions étudiées, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
-  
-          "<p>Essayer de concrétiser les notions, il a souvent un besoin de comprendre le sens et le « pourquoi » pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
-  
-          "<p>Si vous voyez que l’élève s’ennuie, proposez-lui des exercices supplémentaires plus complexes, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste facultatif et ça peut intéresser le reste de la classe).</p>",
-  
-          "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
-        ]
-      },
       {
         "path": "/dysorthographie",
         "name": "La dysorthographie",
+        "tag": "dys",
         "intro": [
           "<p>La dysorthographie c’est un trouble spécifique à l’écriture.</p>",
   
@@ -112,7 +77,147 @@
   
           "<p>Prendre en compte qu’il va se fatiguer plus vite surtout s’il y a beaucoup d’écriture.</p>"
         ]
-      }
+      },
+      {
+        "path": "/tda",
+        "name": "TDA",
+        "tag": "tdah",
+        "intro": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "imageDescription": "Enfant travaillant sur PC",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
+        "definitionTitle": "Qu'est ce que la dyslexie ?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Qu’est-ce que le TDA ?",
+        "accompagnementContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ]
+      },
+      {
+        "path": "/hyperactif",
+        "name": "Hyperactif",
+        "tag": "tdah",
+        "intro": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "imageDescription": "Enfant travaillant sur PC",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
+        "definitionTitle": "Qu’est-ce que l’ hyperactivité ?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dyslexique ?",
+        "accompagnementContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ]
+      },
+      
+    {
+      "path": "/hpi",
+      "name": "HPI: Haut Potentiel Intellectuel",
+      "tag": "other",
+      "intro": [
+        "<p>QI d’au moins 143, pensées en arborescence, très rationnel, extrêmes émotionnels.</p>",
+
+        "<p>Facilités d’apprentissages n’est pas signe de réussite scolaire garantie !</p>"
+      ],
+      "imageDescription": "Kirby",
+      "imageUrl": "https://media.tenor.com/e7JhFzl1VhMAAAAM/kirby54-qi.gif",
+      "definitionTitle": "Qu’est-ce que le HPI ?",
+      "definitionContent": [
+        "<p>Your content goes here.</p>",
+
+        "<p>Edit or remove this text inline or in the module Content settings.</p>",
+
+        "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+      ],
+      "accompagnementTitle": "Comment pouvons-nous accompagner un enfant HPI ?",
+      "accompagnementContent": [
+        "<p>Ne pas se vexer s’il vous reprend, ce n’est pas de la provocation. L’élève HPI a souvent besoin que les termes soient précis (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
+
+        "<p>L’entraîner aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
+
+        "<p>Ne pas lui dire qu’il a faux si ce n’est pas le cas. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
+
+        "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, l’accepter (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
+
+        "<p>Accepter qu’il peut avoir de gros écarts de niveau selon les notions étudiées, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
+
+        "<p>Essayer de concrétiser les notions, il a souvent un besoin de comprendre le sens et le « pourquoi » pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
+
+        "<p>Si vous voyez que l’élève s’ennuie, proposez-lui des exercices supplémentaires plus complexes, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste facultatif et ça peut intéresser le reste de la classe).</p>",
+
+        "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
+      ]
+    },
+    
+    {
+      "path": "/phobie-scolaire",
+      "name": "Phobie Scolaire",
+      "tag": "other",
+      "intro": [
+        "<p>Your content goes here.</p>",
+
+        "<p>Edit or remove this text inline or in the module Content settings.</p>",
+
+        "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+      ],
+      "imageDescription": "Kirby",
+      "imageUrl": "https://media.tenor.com/e7JhFzl1VhMAAAAM/kirby54-qi.gif",
+      "definitionTitle": "Qu’est-ce que la phobie scolaire ?",
+      "definitionContent": [
+        "<p>Your content goes here.</p>",
+
+        "<p>Edit or remove this text inline or in the module Content settings.</p>",
+
+        "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+      ],
+      "accompagnementTitle": "Comment pouvons-nous accompagner un enfant HPI ?",
+      "accompagnementContent": [
+        "<p>Ne pas se vexer s’il vous reprend, ce n’est pas de la provocation. L’élève HPI a souvent besoin que les termes soient précis (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
+
+        "<p>L’entraîner aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
+
+        "<p>Ne pas lui dire qu’il a faux si ce n’est pas le cas. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
+
+        "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, l’accepter (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
+
+        "<p>Accepter qu’il peut avoir de gros écarts de niveau selon les notions étudiées, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
+
+        "<p>Essayer de concrétiser les notions, il a souvent un besoin de comprendre le sens et le « pourquoi » pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
+
+        "<p>Si vous voyez que l’élève s’ennuie, proposez-lui des exercices supplémentaires plus complexes, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste facultatif et ça peut intéresser le reste de la classe).</p>",
+
+        "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
+      ]
+    }
 
   ]
 }
