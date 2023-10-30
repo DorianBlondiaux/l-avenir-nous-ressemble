@@ -100,3 +100,33 @@
 li .topmenu, .link{
   height:100%;
 }
+
+/* Responsive */
+
+@media (max-width: 800px) {
+  .logo {
+    display:none;
+  }
+  /* Premier menu */
+  .cm-e-menu ul li.topmenu, .block{
+    display: block;
+    position:relative;
+  }
+  /* Les troubles */
+  .cm-e-menu ul.submenu{
+    z-index: 1200;
+    
+  }
+
+  .cm-e-menu{
+    width:50%;
+  }
+
+  .cm-e-menu ul.submenu .submenu {
+    left:0;
+    margin-left:175px;
+    margin-top:50px;
+}
+
+  
+}

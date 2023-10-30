@@ -22,11 +22,11 @@ function Navbar(props) {
         <li className="topmenu">
           <div className="link">Les Troubles</div>
           <ul className="submenu">
-            <li>
+            <li className="block">
               <span className="link">Les troubles DYS</span>
               <ul className="submenu">
                 {/* Géneration des liens pour les troubles dys */}
-                <TroubleLink troubles={props.troubles} tag='dys'></TroubleLink>
+                <TroubleLink troubles={props.troubles} tag="dys"></TroubleLink>
               </ul>
             </li>
             <li className="divider"></li>
@@ -34,13 +34,12 @@ function Navbar(props) {
               <span className="link">TDA/H</span>
               <ul className="submenu">
                 {/* Géneration des liens pour les troubles tdah */}
-                <TroubleLink troubles={props.troubles} tag='tdah'></TroubleLink>
+                <TroubleLink troubles={props.troubles} tag="tdah"></TroubleLink>
               </ul>
-              
             </li>
             <li className="divider"></li>
-                {/* Géneration des liens pour les autres troubles */}
-                <TroubleLink troubles={props.troubles} tag='other'></TroubleLink>
+            {/* Géneration des liens pour les autres troubles */}
+            <TroubleLink troubles={props.troubles} tag="other"></TroubleLink>
           </ul>
         </li>
         <li className="topmenu">
