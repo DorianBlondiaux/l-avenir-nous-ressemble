@@ -28,7 +28,7 @@ function Accueil(props) {
             </p>
           </div>
           <div className="center">
-          <Button className="nousContacter" content="Nous Contacter"></Button>
+            <Button className="nousContacter" content="Nous Contacter"></Button>
           </div>
         </div>
       </div>
@@ -98,6 +98,35 @@ function Accueil(props) {
             discover="Découvrez en plus"
           ></Card>
         </section>
+      </div>
+
+      <div className="queFaitOn">
+        <img
+          className="kak"
+          decoding="async"
+          fetchpriority="high"
+          width="1280"
+          height="960"
+          src="https://lavenirnousressemble.fr/wp-content/uploads/2023/09/WhatsApp-Image-2023-07-11-a-11.50.webp"
+          alt="Kimberley - Présidente de l'association L'Avenir Nous Ressemble"
+          title="WhatsApp-Image-2023-07-11-a-11.50"
+          srcset="https://lavenirnousressemble.fr/wp-content/uploads/2023/09/WhatsApp-Image-2023-07-11-a-11.50.webp 1280w, https://lavenirnousressemble.fr/wp-content/uploads/2023/09/WhatsApp-Image-2023-07-11-a-11.50-980x735.webp 980w, https://lavenirnousressemble.fr/wp-content/uploads/2023/09/WhatsApp-Image-2023-07-11-a-11.50-480x360.webp 480w"
+        />
+
+        <div>
+          <h2 className="header1">Qui sommes-nous ?</h2>
+          <div>
+            <p>
+              Your content goes here. Edit or remove this text inline or in the
+              module Content settings. You can also style every aspect of this
+              content in the module Design settings and even apply custom CSS to
+              this text in the module Advanced settings.
+            </p>
+          </div>
+          <div className="center">
+          <Button content="Découvrir l'association"></Button>
+          </div>
+        </div>
       </div>
     </div>
   );

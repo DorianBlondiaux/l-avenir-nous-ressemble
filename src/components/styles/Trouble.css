@@ -1,5 +1,5 @@
 .troubleFlex {
-    padding-top: 100px;
+    padding-top: 200px;
     display: flex;
     width: 70%;
     margin-left: auto;
@@ -11,7 +11,9 @@
     width: 40%;
     border-radius: 30px;
     margin-right: 20px;
+    margin-left:50px;
   }
+  
 
   .important{
     color: #ED6EA5;
