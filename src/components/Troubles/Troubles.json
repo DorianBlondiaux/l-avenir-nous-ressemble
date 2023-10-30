@@ -151,6 +151,78 @@
         ]
       },
       {
+        "path": "/dyscalculie",
+        "name": "La dyscalculie",
+        "tag": "dys",
+        "intro": [
+          "<p>La dyscalculie c’est un trouble spécifique du <span class=\"important\">calcul</span>.</p>",
+  
+          "<p>C’est-à-dire que la personne atteinte de ce trouble présent des <span class=\"important\">difficultés pour calculer</span>, lire et écrire les nombres, dénombrer.</p>"
+        ],
+        "imageDescription": "Enfant travaillant cahier",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-gustavo-fring-3985033-scaled.webp",
+        "definitionTitle": "Qu’est-ce que la dyscalculie ?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dysorthographique ?",
+        "accompagnementContent": [
+          "<p>Pour aider un élève dyscalculie, vous pouvez utiliser la police <span class=\"important\">Lexie Readable</span> ou des polices avec des espacements entre les lettres et où chaque lettre est bien distincte comme Comics sans MS.</p>",
+  
+          "<p><span class=\"important\">Aérer</span> les textes, <span class=\"important\">écrire en plus grand</span> les nombres, utiliser des <span class=\"important\">couleurs</span>.</p>",
+  
+          "<p><span class=\"important\">Concrétiser/imager</span> les quantités quand cela est possible.</p>",
+  
+          "<p>Éviter les rédactions avec un nombre de mots/lignes demandés ou trouver des moyens avec l’élève pour qu’il ait des <span class=\"important\">repères sans devoir compter</span>.</p>",
+  
+          "<p><span class=\"important\">Numéroter chaque ligne</span> d’un texte quand c’est possible, pour qu’il puisse citer sans confondre les lignes.</p>",
+  
+          "<p><span class=\"important\">Illustrer les pourcentages</span> par des diagrammes circulaires.</p>",
+  
+          "<p>Prendre en compte qu’il va se <span class=\"important\">fatiguer plus vite</span> surtout s’il y a beaucoup de lecture.</p>"
+        ]
+      },
+      {
+        "path": "/dysgraphie",
+        "name": "La dysgraphie",
+        "tag": "dys",
+        "intro": [
+          "<p>La dysgraphie c’est un trouble de <span class=\"important\">l’acquisition</span> et de <span class=\"important\">l’automatisation du geste graphique</span>.</p>",
+  
+          "<p>C’est-à-dire que la personne atteinte de ce trouble a des difficultés d’écriture (formes, espaces, dimensions), des difficultés de manipulation (utilisation du matériel, tenir un stylo).</p>"
+        ],
+        "imageDescription": "Enfant travaillant cahier",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-gustavo-fring-3985033-scaled.webp",
+        "definitionTitle": "Qu’est-ce que la dysgraphie ?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dysgraphique ?",
+        "accompagnementContent": [
+          "<p><span class=\"important\">Être plus indulgent</span> sur l’état des copies.</p>",
+  
+          "<p>L’écriture peut être plus lente. Pour éviter de ralentir la classe, lui <span class=\"important\">imprimer</span> le cours ou lui envoyer la <span class=\"important\">version informatique</span> s’il a un ordinateur pour prendre des notes (peut-être sous forme de texte à trou pour le faire écrire un minimum).",
+  
+          "<p>Pour les mêmes raisons, laisser <span class=\"important\">plus de temps</span> pour les évaluations écrites ou évaluer sous forme de <span class=\"important\">texte à trou ou QCM</span>.</p>",
+  
+          "<p>Privilégier les <span class=\"important\">évaluations orales</span>.</p>",
+  
+          "<p>Faire des <span class=\"important\">schémas préremplis</span> quand l’élève doit en produire un (la difficulté peut être augmentée au fur et à mesure selon les progrès de l’élève).</p>",
+  
+          "<p><span class=\"important\">Demander à l’élève</span> s’il est plus compliqué pour lui d’écrire ou de dessiner et adapter les évaluations.</p>",
+  
+          "<p>Pour la prise de notes, <span class=\"important\">autoriser l’utilisation d’abréviation</span> pour qu’il puisse aller plus vite.</p>"
+        ]
+      },
+      {
         "path": "/tda",
         "name": "TDA",
         "tag": "tdah",
