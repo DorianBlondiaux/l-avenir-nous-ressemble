@@ -5,12 +5,19 @@
   font-family: "LexieReadable";
 }
 
+.logo {
+  width: 100%;
+  max-width: 50px;
+  float: left;
+}
+
 .cm-e-menu,
-.cm-e-menu li, .link{
+.cm-e-menu li,
+.link {
   font-size: 17px;
   font-weight: bold;
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .cm-e-menu {
