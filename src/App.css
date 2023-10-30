@@ -5,6 +5,11 @@
   src: url("./fonts/CraftyNotes.ttf") format("truetype"); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 }
 
+@font-face {
+  font-family: "LexieReadable";
+  src: url("./fonts/LexieReadable-Regular.ttf") format("truetype"); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
 body {
   background-color: #fff6e4;
 }
@@ -12,16 +17,17 @@ body {
 p{
   padding-top:10px;
   padding-right:100px;
+  font-family: "LexieReadable";
 }
 
 .header1,
 .header2 {
   color: #4eb589;
   font-size: 30px;
+  font-family: "CraftyNotes";
 }
 
 .header2 {
-  font-family: "CraftyNotes";
   text-align: center;
 }
 

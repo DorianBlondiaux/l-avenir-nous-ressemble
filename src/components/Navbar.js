@@ -14,11 +14,11 @@ function Navbar() {
             <div className="link">Les Troubles</div>
             <ul className="submenu">
                 <li>
-                    <a>Les troubles DYS</a>
+                    <span className="link">Les troubles DYS</span>
                     <ul className="submenu">
                         <li><Link className="link" to="/dyslexie">Dyslexie</Link></li>
                         <li className="divider"></li>
-                        <li><a>Dysorthographie</a></li>
+                        <li><Link className="link" to="/dysorthographie">Dysorthographie</Link></li>
                         <li className="divider"></li>
                         <li><a>Dyspraxie</a></li>
                         <li className="divider"></li>
@@ -30,7 +30,7 @@ function Navbar() {
                     </ul>
                 </li>
                 <li>
-                    <a>TDA/H</a>
+                    <span className="link">TDA/H</span>
                     <ul className="submenu">
                         <li><a>TDA</a></li>
                         <li className="divider"></li>

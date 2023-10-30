@@ -4,9 +4,9 @@
       "path": "/dyslexie",
       "name": "Dyslexie",
       "intro": [
-        "<p>La dyslexie c’est un trouble spécifique de la lecture.</p>",
+        "<p>La dyslexie c’est un trouble <span class=\"important\">spécifique de la lecture</span>.</p>",
 
-        "<p>C’est-à-dire que la personne atteinte de ce trouble présente des difficultés pour lire.</p>"
+        "<p>C’est-à-dire que la personne atteinte de ce trouble présente des <span class=\"important\">difficultés pour lire</span>.</p>"
       ],
       "imageDescription": "Enfant travaillant sur PC",
       "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
@@ -20,25 +20,25 @@
       ],
       "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dyslexique ?",
       "accompagnementContent": [
-        "<p>Pour aider un élève dyslexique, vous pouvez utiliser la police Lexie Readable ou des polices avec des espacements entre les lettres et où chaque lettre est bien distincte comme Comics sans MS (Ex: »I » et « l »)</p>",
+        "<p>Pour aider un élève dyslexique, vous pouvez utiliser la police <span class=\"important\">Lexie Readable</span> ou des polices avec des espacements entre les lettres et où chaque lettre est bien distincte comme <span class=\"important\">Comics sans MS</span> (Ex: »I » et « l »)</p>",
 
-        "<p>Aérer les textes et ne pas écrire trop petit.</p>",
+        "<p><span class=\"important\">Aérer les textes</span> et ne pas écrire trop petit.</p>",
 
-        "<p>Si la compétence n’est pas « comprendre une consigne complexe », alors privilégier « une phrase = une information« .</p>",
+        "<p>Si la compétence n’est pas « comprendre une consigne complexe », alors privilégier <span class=\"important\">« une phrase = une information«</span> .</p>",
 
-        "<p>Fractionner le travail demandé.</p>",
+        "<p><span class=\"important\">Fractionner</span> le travail demandé.</p>",
 
-        "<p>Les QCM sont plus compliqués pour eux (ont plus de mal à repérer les nuances), à éviter ou les entraîner en leur montrant les différents pièges possibles (cela peut aider tous les élèves).</p>",
+        "<p>Les <span class=\"important\">QCM</span> sont plus compliqués pour eux (ont plus de mal à repérer les nuances), à <span class=\"important\">éviter</span> ou les entraîner en leur montrant les différents pièges possibles (cela peut aider tous les élèves).</p>",
 
-        "<p>Privilégier les consignes orales ou lire les consignes à voix haute.</p>",
+        "<p>Privilégier les consignes <span class=\"important\">orales</span> ou lire les consignes à voix haute.</p>",
 
-        "<p>Vous pouvez également demander à un élève au hasard de la reformuler (cela permet de voir aussi si le reste de la classe a compris ce qui est demandé).</p>",
+        "<p>Vous pouvez également demander à un élève au hasard de la <span class=\"important\">reformuler</span> (cela permet de voir aussi si le reste de la classe a compris ce qui est demandé).</p>",
 
-        "<p>Mettre un élève sans difficultés particulières à côté qui pourrait lui reformuler (discrètement) les consignes si besoin.</p>",
+        "<p>Mettre un élève sans difficultés particulières à côté qui pourrait lui <span class=\"important\">reformuler</span> (discrètement) les consignes si besoin.</p>",
 
-        "<p>Éviter de le faire lire à voix haute en particulier devant tout le monde.</p>",
+        "<p><span class=\"important\">Éviter de le faire lire à voix haute</span> en particulier devant tout le monde.</p>",
 
-        "<p>Prendre en compte qu’il va se fatiguer plus vite surtout s’il y a beaucoup de lecture.</p>"
+        "<p>Prendre en compte qu’il va se <span class=\"important\">fatiguer plus vite</span> surtout s’il y a beaucoup de lecture.</p>"
       ]
     },
     {
@@ -77,6 +77,42 @@
   
           "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
         ]
+      },
+      {
+        "path": "/dysorthographie",
+        "name": "La dysorthographie",
+        "intro": [
+          "<p>La dysorthographie c’est un trouble spécifique à l’écriture.</p>",
+  
+          "<p>C’est-à-dire que la personne a des difficultés pour orthographier les mots, confusion de lettre…</p>"
+        ],
+        "imageDescription": "Kirby",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-julia-m-cameron-4145355-scaled.webp",
+        "definitionTitle": "Qu’est-ce que la dysorthographie ?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dysorthographique ?",
+        "accompagnementContent": [
+          "<p>Être plus indulgent sur l’orthographe, ne pas pénaliser les fautes quand ce ne sont pas les mots de vocabulaire vus en cours.</p>",
+  
+          "<p>Lors des évaluations, les mots de vocabulaire à utiliser peuvent être donnés dans la consigne. (Ex : Expliquer en quelques lignes une notion en utilisant les termes « … » et « … »).",
+  
+          "<p>Les QCM peuvent aider, sauf si les différences entre les réponses sont des orthographes différentes.</p>",
+  
+          "<p>Privilégier les évaluations orales.</p>",
+  
+          "<p>Autoriser un dictionnaire lors des productions écrites.</p>",
+  
+          "<p>Le mettre à côté d’un élève qui a des facilités en orthographe qui pourrait l’aider.</p>",
+  
+          "<p>Prendre en compte qu’il va se fatiguer plus vite surtout s’il y a beaucoup d’écriture.</p>"
+        ]
       }
+
   ]
 }

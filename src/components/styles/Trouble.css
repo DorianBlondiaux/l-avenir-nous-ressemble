@@ -12,3 +12,8 @@
     border-radius: 30px;
     margin-right: 20px;
   }
+
+  .important{
+    color: #ED6EA5;
+    font-weight: bold;
+  }
