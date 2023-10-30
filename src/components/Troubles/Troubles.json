@@ -47,11 +47,11 @@
         "name": "La dysorthographie",
         "tag": "dys",
         "intro": [
-          "<p>La dysorthographie c’est un trouble spécifique à l’écriture.</p>",
+          "<p>La dysorthographie <span class=\"important\">c’est un trouble spécifique à l’écriture</span>.</p>",
   
-          "<p>C’est-à-dire que la personne a des difficultés pour orthographier les mots, confusion de lettre…</p>"
+          "<p>C’est-à-dire que la personne a des difficultés pour <span class=\"important\">orthographier</span> les mots, confusion de lettre…</p>"
         ],
-        "imageDescription": "Kirby",
+        "imageDescription": "Enfant travaillant sur PC 2",
         "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-julia-m-cameron-4145355-scaled.webp",
         "definitionTitle": "Qu’est-ce que la dysorthographie ?",
         "definitionContent": [
@@ -63,35 +63,33 @@
         ],
         "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dysorthographique ?",
         "accompagnementContent": [
-          "<p>Être plus indulgent sur l’orthographe, ne pas pénaliser les fautes quand ce ne sont pas les mots de vocabulaire vus en cours.</p>",
+          "<p>Être plus <span class=\"important\">indulgent sur l’orthographe</span>, ne pas pénaliser les fautes quand ce ne sont pas les mots de vocabulaire vus en cours.</p>",
   
-          "<p>Lors des évaluations, les mots de vocabulaire à utiliser peuvent être donnés dans la consigne. (Ex : Expliquer en quelques lignes une notion en utilisant les termes « … » et « … »).",
+          "<p>Lors des évaluations, les mots de <span class=\"important\">vocabulaire</span> à utiliser peuvent être <span class=\"important\">donnés</span> dans la consigne. (Ex : Expliquer en quelques lignes une notion en utilisant les termes « … » et « … »).",
   
-          "<p>Les QCM peuvent aider, sauf si les différences entre les réponses sont des orthographes différentes.</p>",
+          "<p>Les <span class=\"important\">QCM</span> peuvent aider, sauf si les différences entre les réponses sont des orthographes différentes.</p>",
   
-          "<p>Privilégier les évaluations orales.</p>",
+          "<p>Privilégier les évaluations <span class=\"important\">orales</span>.</p>",
   
-          "<p>Autoriser un dictionnaire lors des productions écrites.</p>",
+          "<p>Autoriser un <span class=\"important\">dictionnaire</span> lors des productions écrites.</p>",
   
-          "<p>Le mettre à côté d’un élève qui a des facilités en orthographe qui pourrait l’aider.</p>",
+          "<p><span class=\"important\">Le mettre à côté d’un élève qui a des facilités</span> en orthographe qui pourrait l’aider.</p>",
   
-          "<p>Prendre en compte qu’il va se fatiguer plus vite surtout s’il y a beaucoup d’écriture.</p>"
+          "<p>Prendre en compte qu’il va se <span class=\"important\">fatiguer plus vite</span> surtout s’il y a beaucoup d’écriture.</p>"
         ]
       },
       {
-        "path": "/tda",
-        "name": "TDA",
-        "tag": "tdah",
+        "path": "/dyspraxie",
+        "name": "La dyspraxie",
+        "tag": "dys",
         "intro": [
-          "<p>Your content goes here.</p>",
+          "<p>La dyspraxie c’est un trouble touchant <span class=\"important\">la réalisation et la coordination des mouvements volontaires</span>.</p>",
   
-          "<p>Edit or remove this text inline or in the module Content settings.</p>",
-  
-          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+          "<p><span class=\"important\">Difficultés dans les gestes quotidiens</span>, pour se repérer dans l’espace, maladresses…</p>"
         ],
-        "imageDescription": "Enfant travaillant sur PC",
-        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
-        "definitionTitle": "Qu'est ce que la dyslexie ?",
+        "imageDescription": "Kirby",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-julia-m-cameron-4145355-scaled.webp",
+        "definitionTitle": "Qu’est-ce que la dyspraxie ?",
         "definitionContent": [
           "<p>Your content goes here.</p>",
   
@@ -99,13 +97,93 @@
   
           "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
         ],
-        "accompagnementTitle": "Qu’est-ce que le TDA ?",
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dyspraxique ?",
         "accompagnementContent": [
+          "<p>Vous pouvez placer l’élève de façon à <span class=\"important\">faciliter ses déplacements</span>(Ex : proche de la porte).</p>",
+  
+          "<p>L’écriture peut-être plus lente, pour éviter de ralentir la classe, lui <span class=\"important\">imprimer</span> le cours ou lui envoyer la <span class=\"important\">version informatique</span> s’il a un ordinateur pour prendre des notes (peut-être sous forme de texte à trou pour le faire écrire un minimum).</p>",
+  
+          "<p>Pour les mêmes raisons, <span class=\"important\">laisser plus de temps</span> pour les évaluations écrites ou évaluer sous forme de <span class=\"important\">texte à trou ou QCM</span>.</p>",
+  
+          "<p>Privilégier les <span class=\"important\">évaluations orales</span>.</p>",
+  
+          "<p>Ses déplacements sont plus compliqués, <span class=\"important\">tolérer de légers retards</span> entre deux cours.</p>",
+  
+          "<p><span class=\"important\">Adapter les consignes</span> lors des déplacements ou en EPS (privilégier des repères visuels plutôt qu’une succession de direction).</p>"
+       ]
+      },
+      {
+        "path": "/dysphasie",
+        "name": "La dysphasie",
+        "tag": "dys",
+        "intro": [
+          "<p>Trouble du développement du <span class=\"important\">langage oral</span>.</p>",
+  
+          "<p>Ce trouble touche <span class=\"important\">l’expression et ou la compréhension orale</span>. Paroles indistinctes, problèmes de syntaxe, expression par mots isolés… Ce n’est pas une déficience intellectuelle !</p>"
+        ],
+        "imageDescription": "Enfant travaillant cahier",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-gustavo-fring-3985033-scaled.webp",
+        "definitionTitle": "Qu’est-ce que la dysphasie ?",
+        "definitionContent": [
           "<p>Your content goes here.</p>",
   
           "<p>Edit or remove this text inline or in the module Content settings.</p>",
   
           "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dysorthographique ?",
+        "accompagnementContent": [
+          "<p>Si la compétence « comprendre une consigne complexe » n’est pas évaluée, privilégier <span class=\"important\">« une phrase = une information »</span>.</p>",
+  
+          "<p><span class=\"important\">Fractionner</span> le travail demandé</p>",
+  
+          "<p>Privilégier les consignes <span class=\"important\">écrites</span></p>",
+  
+          "<p>Utiliser des <span class=\"important\">signes simples</span> et uniques par action. Déterminés préalablement avec vos collègues pour avoir une homogénéité (Ex : mimer un livre pour lire, une calculatrice pour « calculer »…)</p>",
+  
+          "<p>Quand une consigne est orale : demander à un élève au hasard de la <span class=\"important\">reformuler</span> (cela permet de voir aussi si le reste de la classe a compris ce qui est demandé).</p>",
+  
+          "<p>Mettre un élève sans difficultés particulières à côté qui pourrait lui <span class=\"important\">reformuler</span> (discrètement) les consignes si besoin.</p>",
+  
+          "<p><span class=\"important\">Éviter de l’interroger à l’oral</span>, en particulier devant tout le monde.</p>",
+
+          "<p>Prendre en compte, qu’il va <span class=\"important\">se fatiguer plus vite</span> surtout s’il y a beaucoup de compréhensions et expressions orales.</p>"
+        ]
+      },
+      {
+        "path": "/tda",
+        "name": "TDA",
+        "tag": "tdah",
+        "intro": [
+          "<p>Difficultés pour se concentrer, surtout sur des tâches jugées inintéressantes, facilement distrait, étourderie…</p>",
+  
+          "<p>Les personnes TDA ont des difficultés pour se concentrer ce n’est pas qu’ils sont fénéants ou n’ont pas envie de travailler. </p>"
+        ],
+        "imageDescription": "Enfant travaillant sur PC",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
+        "definitionTitle": "Qu'est ce que le TDA?",
+        "definitionContent": [
+          "<p>Your content goes here.</p>",
+  
+          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+  
+          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        ],
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant TDA ?",
+        "accompagnementContent": [
+          "<p>Trouver le moment de la journée où il est le plus attentif, quand c’est possible, faire ses devoirs/revisions à ce moment (surtout pour les week-end et les vacances). </p>",
+  
+          "<p>Faire des « to do list » et programmer des alarmes pour ne pas oublier de faire ses devoirs.</p>",
+  
+          "<p>Trouver combien de temps il arrive à rester facilement concentré, utiliser cette information pour travailler plus efficacement (pour savoir tous les combien de temps il faut faire une pause. Le faire avant d’arriver à saturation). Une méthode qui peut être intéressante la méthode Pomodoro (25min de travail concentrer 5min de pause pendant 4 cycles et ensuite 20min de pause).</p>",
+
+          "<p>Trouver s’il est préférable de travailler en musique ou dans le silence, seul ou entouré.</p>",
+
+          "<p>Couper son téléphone quand il travaille ou le confier à quelqu’un pour ne pas être tenté/distrait (l’avantage de faire des pauses régulièrement et qu’il n’y aura pas de « manque »).</p>",
+
+          "<p>Oser dire quand il est fatigué ou qu’il a besoin d’aide pour se concentrer</p>",
+
+          "<p>Faire régulièrement des pauses. </p>"
         ]
       },
       {
@@ -113,14 +191,12 @@
         "name": "Hyperactif",
         "tag": "tdah",
         "intro": [
-          "<p>Your content goes here.</p>",
+          "<p>Besoin de bouger, de s’occuper, peut parler beaucoup, être impatient et impulsif.</p>",
   
-          "<p>Edit or remove this text inline or in the module Content settings.</p>",
-  
-          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
-        ],
-        "imageDescription": "Enfant travaillant sur PC",
-        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
+          "<p>Les personnes hyperactives ont des difficultés à « rester en place », mais ne sont pas forcément impolies.</p>"
+          ],
+        "imageDescription": "Enfant travaillant en cours",
+        "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/08/ronald-felton-6c86TCPmNRQ-unsplash1920x1080.webp",
         "definitionTitle": "Qu’est-ce que l’ hyperactivité ?",
         "definitionContent": [
           "<p>Your content goes here.</p>",
@@ -129,13 +205,29 @@
   
           "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
         ],
-        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant dyslexique ?",
+        "accompagnementTitle": "Comment pouvons-nous accompagner un enfant hyperactif ?",
         "accompagnementContent": [
-          "<p>Your content goes here.</p>",
+          "<p><span class=\"important\">Utiliser des fidgets</span> (balle antistress, cube sensoriel…), cela lui permet de se canaliser (plus silencieux que cliquer sur son stylo).</p>",
   
-          "<p>Edit or remove this text inline or in the module Content settings.</p>",
+          "<p><span class=\"important\">Des élastiques</span> (ou des chambres à air) peuvent être installés sur les pieds de certaines chaises, cela <span class=\"important\">permet d’occuper les pieds</span> sans déranger le reste de la classe.</p>",
   
-          "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+          "<p><span class=\"important\">Autoriser la tenue d’objet</span> dans ses mains <span class=\"important\">lors des oraux</span>, cela l’aidera à tenir un peu plus en place.</p>",
+
+          "<p><span class=\"important\">Le désigner élève « espion »</span> lors des travaux de groupe (il va de groupe en groupe pour aider, cela lui permet de bouger et peut le stimuler. Cela peut intéresser d’autres élèves de la classe).</p>",
+
+          "<p><span class=\"important\">Lui proposer des tâches qui lui donnent <span class=\"important\">l’occasion de bouger</span> (distribuer les copies, corriger au tableau,…).</p>",
+
+          "<p>S’il a vraiment du mal à rester en place, <span class=\"important\">l’autoriser à aller aux toilettes</span> juste pour qu’il puisse se dégourdir les jambes et se canaliser en revenant.</p>",
+
+          "<p><span class=\"important\">À la maison</span>, il peut <span class=\"important\">travailler en bougeant</span>, en chantant,…</p>",
+
+          "<p><span class=\"important\">Faire du sport</span> pour se dépenser au maximum (s’il y a des séances proposées le midi dans l’établissement, cela peut aider pour tenir toute la journée).</p>",
+
+          "<p>S’inscrire dans un <span class=\"important\">club de théâtre</span>.</p>",
+
+          "<p>Des <span class=\"important\">exercices de respiration</span> peuvent aider à se canaliser.</p>",
+
+          "<p><span class=\"important\">Se dépenser</span> pendant les pauses.</p>"
         ]
       },
       
@@ -144,7 +236,7 @@
       "name": "HPI: Haut Potentiel Intellectuel",
       "tag": "other",
       "intro": [
-        "<p>QI d’au moins 143, pensées en arborescence, très rationnel, extrêmes émotionnels.</p>",
+        "<p>QI d’au moins 130, pensées en arborescence, très rationnel, extrêmes émotionnels.</p>",
 
         "<p>Facilités d’apprentissages n’est pas signe de réussite scolaire garantie !</p>"
       ],
@@ -160,21 +252,21 @@
       ],
       "accompagnementTitle": "Comment pouvons-nous accompagner un enfant HPI ?",
       "accompagnementContent": [
-        "<p>Ne pas se vexer s’il vous reprend, ce n’est pas de la provocation. L’élève HPI a souvent besoin que les termes soient précis (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
+        "<p><span class=\"important\">Ne pas se vexer</span> s’il vous reprend, <span class=\"important\">ce n’est pas de la provocation</span>. L’élève HPI a souvent <span class=\"important\">besoin que les termes soient précis</span> (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
 
-        "<p>L’entraîner aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
+        "<p><span class=\"important\">L’entraîner</span> aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
 
-        "<p>Ne pas lui dire qu’il a faux si ce n’est pas le cas. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
+        "<p><span class=\"important\">Ne pas lui dire qu’il a faux si ce n’est pas le cas</span>. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
 
-        "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, l’accepter (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
+        "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, <span class=\"important\">l’accepter</span> (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
 
-        "<p>Accepter qu’il peut avoir de gros écarts de niveau selon les notions étudiées, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
+        "<p>Accepter qu’il peut avoir de <span class=\"important\">gros écarts de niveau selon les notions étudiées</span>, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
 
-        "<p>Essayer de concrétiser les notions, il a souvent un besoin de comprendre le sens et le « pourquoi » pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
+        "<p>Essayer de <span class=\"important\">concrétiser les notions</span>, il a souvent un besoin de <span class=\"important\">comprendre le sens et le « pourquoi »</span> pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
 
-        "<p>Si vous voyez que l’élève s’ennuie, proposez-lui des exercices supplémentaires plus complexes, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste facultatif et ça peut intéresser le reste de la classe).</p>",
+        "<p>Si vous voyez que l’élève s’ennuie, proposez-lui <span class=\"important\">des exercices supplémentaires plus complexes</span>, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste <span class=\"important\">facultatif</div> et ça peut intéresser le reste de la classe).</p>",
 
-        "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
+        "<p><span class=\"important\">Ne pas lui dire qu’il gâche ses capacités</div> s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est <span class=\"important\">destructeur</div>.</p>"
       ]
     },
     
@@ -183,14 +275,14 @@
       "name": "Phobie Scolaire",
       "tag": "other",
       "intro": [
-        "<p>Your content goes here.</p>",
+        "<p><span class=\"important\">Angoisse massive</span> survenant à la simple idée d’aller à l’école. <span class=\"important\">Crises d’angoisse</span>, difficultés pour se concentrer.</p>",
 
-        "<p>Edit or remove this text inline or in the module Content settings.</p>",
+        "<p>Cela ne résulte pas forcément d’un harcèlement</p>",
 
-        "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
+        "<p> Lorsqu’ils font une crise d’angoisse, ils ne se trouvent pas des excuses.</p>"
       ],
-      "imageDescription": "Kirby",
-      "imageUrl": "https://media.tenor.com/e7JhFzl1VhMAAAAM/kirby54-qi.gif",
+      "imageDescription": "Enfant travaillant sur PC",
+      "imageUrl": "https://lavenirnousressemble.fr/wp-content/uploads/2023/09/pexels-august-de-richelieu-4260325-scaled.webp",
       "definitionTitle": "Qu’est-ce que la phobie scolaire ?",
       "definitionContent": [
         "<p>Your content goes here.</p>",
@@ -199,23 +291,21 @@
 
         "<p>You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
       ],
-      "accompagnementTitle": "Comment pouvons-nous accompagner un enfant HPI ?",
+      "accompagnementTitle": "Comment pouvons-nous accompagner un enfant qui a une phobie scolaire ?",
       "accompagnementContent": [
-        "<p>Ne pas se vexer s’il vous reprend, ce n’est pas de la provocation. L’élève HPI a souvent besoin que les termes soient précis (s’il l’exprime maladroitement, lui signaler pour qu’il apprenne la « diplomatie »).</p>",
+        "<p><span class=\"important\">Éviter les remarques</span> sur ses absences répétées éventuelles.</p>",
 
-        "<p>L’entraîner aux différents types de questions et réponses. Les termes pour lui sont précis, il peut souvent être hors sujet ou perdre beaucoup de temps parce qu’il se demande pourquoi ce terme en particulier a été utilisé.</p>",
+        "<p><span class=\"important\">Lui envoyer les cours</span> manqués ou demander à des élèves bienveillants dans la classe de lui faire parvenir les cours.</p>",
 
-        "<p>Ne pas lui dire qu’il a faux si ce n’est pas le cas. Ça pourrait provoquer une perte de confiance en vous, il ne voudra plus s’investir.</p>",
+        "<p><span class=\"important\">Établir un climat de confiance</span>. Une personne (Professeur, infirmier, surveillant…) peut être son référent, elle ferait le relais entre l’élève et les enseignants pour qu’il n’ait à raconter qu’une seule fois les choses.</p>",
 
-        "<p>S’il n’a pas utilisé la méthode demandée mais qu’il y est arrivé et qu’il y a une bonne logique, l’accepter (on peut enlever une partie des points si on demande dans la consigne d’utiliser une méthode spécifique).</p>",
+        "<p><span class=\"important\">Faire attention au plan de classe</span> (éviter de le placer à côté de personnes avec qui il n’est pas à l’aise, vous pouvez le mettre près de votre bureau pour le rassurer ou près de la porte s’il a des crises d’angoisse régulières et qu’il doit sortir).</p>",
 
-        "<p>Accepter qu’il peut avoir de gros écarts de niveau selon les notions étudiées, ce n’est pas de la provocation, c’est juste que certains sujets l’intéresseront plus que d’autres (comme tout le monde, mais c’est souvent intense).</p>",
+        "<p>Pour les travaux de groupe, <span class=\"important\">le mettre avec des personnes bienveillantes</span> s’il ne peut pas choisir.</p>",
 
-        "<p>Essayer de concrétiser les notions, il a souvent un besoin de comprendre le sens et le « pourquoi » pour pouvoir intégrer de nouvelles choses (Cela aidera tout le reste de la classe).</p>",
+        "<p><span class=\"important\">Aménager son emploi du temps</span> pour éviter le décrochage.</p>",
 
-        "<p>Si vous voyez que l’élève s’ennuie, proposez-lui des exercices supplémentaires plus complexes, peut-être des exercices bonus dans les DS pour le stimuler (il faut que cela reste facultatif et ça peut intéresser le reste de la classe).</p>",
-
-        "<p>Ne pas lui dire qu’il gâche ses capacités s’il ne choisit pas certaines études, certains métiers ou qu’il n’a pas eu de bonnes notes. Avoir des facilités peut entraîner une énorme pression, l’encourager à choisir une voie où il est doué mais qui ne le rend pas heureux est destructeur.</p>"
+        "<p><span class=\"important\">Être bienveillant</span> et montrer que vous êtes là au besoin.</p>"
       ]
     }
 
