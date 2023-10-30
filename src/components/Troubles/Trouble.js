@@ -4,7 +4,7 @@ import SectionTemplate from "./SectionTemplate";
 
 function Trouble(props) {
   return (
-    <div>
+    <div className="paddingTop">
       <SectionTemplate
         name={props.trouble.name}
         body={props.trouble.intro.join("\n")}
@@ -12,7 +12,7 @@ function Trouble(props) {
         imageUrl={props.trouble.imageUrl}
       ></SectionTemplate>
 
-      <SectionTemplate
+      <SectionTemplate className="color2"
         name={props.trouble.definitionTitle}
         body={props.trouble.definitionContent.join("\n")}
       ></SectionTemplate>
