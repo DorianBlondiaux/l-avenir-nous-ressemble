@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/l-avenir-nous-ressemble/static/css/main.cb43e9da.css",
+    "main.js": "/l-avenir-nous-ressemble/static/js/main.5cb63e52.js",
+    "static/js/787.0a5a3ee0.chunk.js": "/l-avenir-nous-ressemble/static/js/787.0a5a3ee0.chunk.js",
+    "static/media/LexieReadable-Regular.ttf": "/l-avenir-nous-ressemble/static/media/LexieReadable-Regular.554739a3b67128362b60.ttf",
+    "static/media/CraftyNotes.ttf": "/l-avenir-nous-ressemble/static/media/CraftyNotes.8031c9a2c651b683fc77.ttf",
+    "index.html": "/l-avenir-nous-ressemble/index.html",
+    "main.cb43e9da.css.map": "/l-avenir-nous-ressemble/static/css/main.cb43e9da.css.map",
+    "main.5cb63e52.js.map": "/l-avenir-nous-ressemble/static/js/main.5cb63e52.js.map",
+    "787.0a5a3ee0.chunk.js.map": "/l-avenir-nous-ressemble/static/js/787.0a5a3ee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb43e9da.css",
+    "static/js/main.5cb63e52.js"
+  ]
+}
