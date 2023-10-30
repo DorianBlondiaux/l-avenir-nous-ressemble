@@ -56,7 +56,7 @@ function Accueil(props) {
         </div>
       </div>
 
-      <div>
+      <div className="nousProposons">
         <h2 className="header2">Nous proposons</h2>
 
         <section class="articles">
