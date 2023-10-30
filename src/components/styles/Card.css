@@ -34,7 +34,7 @@ article {
     transform-origin: center;
     transition: all 0.4s ease-in-out;
     overflow: hidden;
-    background-color: #2c220f;;
+    background-color: #2c220f;
   }
   
   article a::after {
