@@ -1,0 +1,35 @@
+.numUrgence{
+    background-color:rgb(40, 50, 43);
+    margin-top:100px;
+    padding-top:100px;
+}
+
+.numUrgence2{
+    
+}
+
+.numContainer{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    justify-content: center;
+}
+
+
+.numeros{
+    flex-basis: 100%; /* take 50% of initial space */
+ /* flex-shrink: 0;  do not shrink-to-fit when flex items larger than flex container */
+  height: 100%;
+  padding-right:20px;
+}
+
+.numeros h3{
+    color:#30BCE3;
+}
+
+@media (max-width: 800px) {
+    .numContainer {
+      flex-direction: column;
+      
+    }
+  }

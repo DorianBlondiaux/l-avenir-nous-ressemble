@@ -141,6 +141,8 @@ p {
   background-color: rgba(29, 29, 27, 0.62) !important;
   background-blend-mode: overlay;
   background-image: url(https://lavenirnousressemble.fr/wp-content/uploads/2023/09/cdc-GDokEYnOfnE-unsplash.webp) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .accueilDiv {

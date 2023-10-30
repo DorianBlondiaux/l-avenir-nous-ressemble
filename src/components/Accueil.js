@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card";
 import Button from "./Button";
 import CqlProposeTemplate from "./CqlproposeTemplate";
+import NumUrgence from "./NumUrgence";
 
 function Accueil(props) {
   return (
@@ -106,6 +107,9 @@ function Accueil(props) {
           </div>
         </div>
       </div>
+
+      <NumUrgence/>
+
     </div>
   );
 }
